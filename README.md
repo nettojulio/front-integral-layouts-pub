@@ -4,13 +4,12 @@
 
 ## Exercícios de classe 🏫
 
-1. Alertas
-2. Newsletter
-3. Post de Blog
+1. Anúncio
+2. Card de perfil
 
 ## Exercícios de casa 🏠
-4. Card de perfil
-5. Loja de presentes
+3. Agência Sunnyside 
+4. Flexbox Froggy e Defense
 
 ---
 
