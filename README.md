@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Conhecendo mais propriedades
+# Layouts
 
 ## Exercícios de classe 🏫
 
