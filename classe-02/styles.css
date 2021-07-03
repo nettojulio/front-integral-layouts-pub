@@ -1,16 +1,23 @@
 * {
     margin: 0;
     padding: 0;
-    /* outline: 1px black dotted; */
+    outline: 1px black dotted;
     box-sizing: border-box;
     font-family: 'Kumbh Sans', sans-serif;
 }
 
 body{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.bg {
     background-image: url(assets/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    display: flex;
+    width: 100vw;
+    height: 100vh;
 }
 
 .card {
@@ -21,6 +28,8 @@ body{
     border-radius: 15px;
     background-color: #ffffff;
     margin: 173px auto;
+    display: flex;
+    flex-direction: column;
 }
 
 img {
